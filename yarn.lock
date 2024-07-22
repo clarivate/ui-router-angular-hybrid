@@ -268,10 +268,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@clarivate/ui-router-angularjs@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@clarivate/ui-router-angularjs/-/ui-router-angularjs-1.1.2.tgz#16bdcd55f4623bfe70afe10fa8b7df59d7350221"
-  integrity sha512-8e1yqLQB5F/TB1ycX/EitU8pJNzYz/BlctpBbL3nt/4aUlaYGiy0Jmb9VIub45e4UpJGHZMIyfGQX8/ZLLbWvg==
+"@clarivate/ui-router-angularjs@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@clarivate/ui-router-angularjs/-/ui-router-angularjs-2.0.0.tgz#c7cbb559f44d1b42c5aec7e2ceb0f9d99e32ca19"
+  integrity sha512-yZOlPf66BOgYBHhKy37SjMnbPUavuDPvBDm1eCGGoXq1vqVGFKQ7Zw8M71t2E0lcKxhpQdonyKwAxY1v++Cf9Q==
 
 "@esbuild/aix-ppc64@0.21.5":
   version "0.21.5"
