@@ -1,6 +1,6 @@
 {
   "name": "@clarivate/ui-router-angular-hybrid",
-  "version": "18.0.2",
+  "version": "18.0.3",
   "scripts": {
     "example": "cd example && npm i && npm start",
     "clean": "shx rm -rf lib _bundles dist",
